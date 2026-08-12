@@ -35,3 +35,16 @@ This command is part of the [Logos Protocol](https://github.com/angyal168/logos-
 ## License
 
 MIT
+
+<!-- forge-related:v1 -->
+
+## Related
+
+This repo is one module. It handles sharpening the prompt before you send it; it does not compose itself into a working system -- that wiring is a separate job.
+
+- **[The Creator Studio Skill Stack for Claude Code](https://andrewhangyal.gumroad.com/l/mcgdqpi?utm_source=github&utm_medium=readme&utm_campaign=forge-prompt)** -- a paid pack of Claude Code commands from the same author ($9+).
+- [All tools, free and paid](https://tools.aingyal.com/?utm_source=github&utm_medium=readme&utm_campaign=forge-prompt) -- the full index.
+
+Listed so you can find them if they are useful to you. Nothing here is required to use this repo, which stays free.
+
+<!-- /forge-related:v1 -->
