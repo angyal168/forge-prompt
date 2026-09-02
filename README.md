@@ -29,6 +29,21 @@ Then type `/forge-prompt` in any Claude Code session and paste your draft.
 - States energy/intent ("tired tonight", "quick win", "sharp and ready")
 
 
+<!-- forge-plugin-install:v1 -->
+## Install as a Claude Code plugin
+
+One command instead of copying a file:
+
+```
+/plugin marketplace add angyal168/logos-protocol
+/plugin install forge-prompt@forge-commands
+```
+
+That installs `/forge-prompt` from the `forge-commands` marketplace, which also carries the
+other six free commands. The manual copy above still works and stays supported.
+
+<!-- /forge-plugin-install:v1 -->
+
 <!-- forge-usage:v1 -->
 
 ## What it actually does
